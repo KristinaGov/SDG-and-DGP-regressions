@@ -1,0 +1,11 @@
+
+*.zip
+*.txt
+*.json
+*.DS_Store
+*.RData
+*.Rproj.user
+*.DS_Store
+*.Rhistory
+*.gitattributes
+*.Rproj.user
